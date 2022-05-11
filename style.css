@@ -1,0 +1,10 @@
+.LoginBody{
+  background:#4e73df;
+}
+.dog{
+        background: url("assets/dog.jpg");
+        background-position: center;
+        background-size: cover; 
+        border-radius:8px 0px 0px 8px ;
+ 
+}
