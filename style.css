@@ -1,3 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@300&400&600&700&display=swap');
+
+* {
+  font-family: 'Mulish', sans-serif;
+}
 .LoginBody{
   background:#4e73df;
 }
@@ -7,4 +12,15 @@
         background-size: cover; 
         border-radius:8px 0px 0px 8px ;
  
+}
+.sidebar{
+  background-color: #4e73df;
+}
+span{
+      color: rgba(255, 255, 255, .8);
+      font-size: .85rem;
+}
+.subtitle{
+  color: black;
+  font-size: .85rem;
 }
