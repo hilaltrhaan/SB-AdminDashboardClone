@@ -3,8 +3,14 @@
 * {
   font-family: 'Mulish', sans-serif;
 }
-.LoginBody{
-  background:#4e73df;
+
+.sidebar-background{
+
+  background: #4e73df;
+}
+.img-profile{
+  width: 32px;
+  height: 32px;
 }
 .dog{
         background: url("assets/dog.jpg");
@@ -16,11 +22,44 @@
 .sidebar{
   background-color: #4e73df;
 }
-span{
-      color: rgba(255, 255, 255, .8);
-      font-size: .85rem;
-}
+
 .subtitle{
   color: black;
   font-size: .85rem;
 }
+
+    .img-profile {
+      width: 32px;
+      height: 32px;
+    }
+  
+    .topbar-divider {
+      width: 0;
+      border-right: 1px solid #d3d9eb;
+      height: 35px;
+      margin: auto 1rem;
+    }
+  
+    .logo-color {
+      color: #d3d9eb;
+    }
+  
+    .badge-height {
+      font-size: 8px;
+    }
+  
+    .bg-color {
+      background-color: #e8e9f2f3;
+    }
+  
+    .text-xs {
+      font-size: 10px;
+      font-weight: 700;
+    }
+    .rotate-n-15 {
+          transform: rotate(-15deg);
+          font-size: 30px;
+  }
+  .title{
+    
+  }
